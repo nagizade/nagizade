@@ -20,5 +20,5 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=nagizade&title=Commit,PullRequest,Repositories&theme=onedark&no-frame=true" alt="nagizade" /></a>  
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=nagizade&title=Commit,PullRequest,Repositories&theme=onedark&no-frame=true&column=3" alt="nagizade" /></a>  
 </p>
