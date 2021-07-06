@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Android related projects
 - 📫 How to reach me via email
 
-[![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagizade&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagizade&count_private=true)]
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nagizade&layout=compact)
 
