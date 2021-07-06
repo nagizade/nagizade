@@ -5,6 +5,7 @@
 - 📫 How to reach me via email
 
 [![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagizade&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nagizade&layout=compact)
 
 
